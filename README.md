@@ -6,9 +6,8 @@ With iOS 13 release Apple finally added a new framework called [Core Haptics](ht
 
 This repo includes an example app source code with various haptic feedback patterns.
 
-<p>
-    <a href="https://exyte.com/blog/link?utm_source=github&utm_medium=referral&utm_campaign=website_blog">Read Article »</a>
-</p>
+<a href="https://exyte.com/blog/creating-haptic-feedback-with-core-haptics?utm_source=github&utm_medium=referral&utm_campaign=website_blog">Read Article »</a>
+
 
 # Sound Credits
 
